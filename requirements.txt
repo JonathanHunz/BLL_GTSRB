@@ -1,0 +1,7 @@
+matplotlib
+tensorflow
+numpy
+scipy
+flake8
+pandas
+jupyter
